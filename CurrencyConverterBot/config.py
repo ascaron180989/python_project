@@ -1,5 +1,5 @@
 # Токен используемого telegram бота
-TOKEN = ''
+TOKEN = '5299776387:AAHERQmmAT0U94oXxXSfpkaX4g1tn0ikWjo'
 
 # URL API валютной биржи
 URL = 'https://min-api.cryptocompare.com/data/price'
